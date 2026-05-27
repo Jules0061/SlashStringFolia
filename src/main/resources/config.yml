@@ -1,0 +1,5 @@
+cooldown-seconds: 300 # 5 minutes by default
+
+success-message: "&aYou received a full inventory of string!"
+
+cooldown-message: "&cYou must wait %time% seconds before using this again."

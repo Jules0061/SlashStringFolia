@@ -1,0 +1,18 @@
+name: SlashStringFolia
+version: '1.0'
+main: org.Jules.slashStringFolia.SlashStringFolia
+api-version: '1.21.11'
+
+folia-supported: true
+
+description: Gives players a full inventory of string with cooldown and config support.
+author: Jules
+website: https://infectedware.dev/
+
+commands:
+  string:
+    description: Gives a full inventory of string
+    usage: /string
+
+  stringfolia:
+    usage: /stringfolia
