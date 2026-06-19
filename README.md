@@ -7,3 +7,5 @@ Based on:
 Commands:
 * /string - Gives the player a full inventory of string. If the inventory is full, the remaining string is dropped on the ground.
 * /stringfolia reload - Reloads the config.yml.
+
+(Cool plugin trust)
